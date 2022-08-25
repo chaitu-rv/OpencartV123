@@ -227,3 +227,49 @@
 21:22:55.883 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Finished TC_001_AccountRegistrationtTest-------------
 21:22:59.897 [main] INFO  testCases.TC_002_LoginTest - *********  Starting TC_002_LoginTest    ****************
 21:23:01.538 [main] INFO  testCases.TC_002_LoginTest - ********  Finished TC_002_LoginTest    **********
+19:02:32.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Starting TC_001_AccountRegistrationtTest------------
+19:02:33.296 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account
+19:02:34.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register
+19:02:34.322 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided first name
+19:02:34.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided last name
+19:02:34.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+19:02:34.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+19:02:34.927 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+19:02:35.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+19:02:35.177 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+19:02:38.045 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+19:02:38.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Finished TC_001_AccountRegistrationtTest-------------
+19:02:41.226 [main] INFO  testCases.TC_002_LoginTest - *********  Starting TC_002_LoginTest    ****************
+19:02:43.072 [main] INFO  testCases.TC_002_LoginTest - ********  Finished TC_002_LoginTest    **********
+19:42:13.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Starting TC_001_AccountRegistrationtTest------------
+19:42:13.688 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account
+19:42:14.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register
+19:42:14.224 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided first name
+19:42:14.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided last name
+19:42:14.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+19:42:14.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+19:42:14.649 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+19:42:14.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+19:42:14.814 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+19:42:17.265 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+19:42:17.318 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Finished TC_001_AccountRegistrationtTest-------------
+19:42:19.764 [main] INFO  testCases.TC_002_LoginTest - *********  Starting TC_002_LoginTest    ****************
+19:42:21.197 [main] INFO  testCases.TC_002_LoginTest - ********  Finished TC_002_LoginTest    **********
+19:46:02.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Starting TC_001_AccountRegistrationtTest------------
+19:46:02.396 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Account
+19:46:02.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Register
+19:46:03.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided first name
+19:46:03.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided last name
+19:46:03.306 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+19:46:03.423 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+19:46:03.528 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+19:46:03.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+19:46:03.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+19:46:06.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+19:46:06.186 [main] INFO  testCases.TC_001_AccountRegistrationTest - -----------Finished TC_001_AccountRegistrationtTest-------------
+19:46:08.806 [main] INFO  testCases.TC_002_LoginTest - *********  Starting TC_002_LoginTest    ****************
+19:46:10.180 [main] INFO  testCases.TC_002_LoginTest - ********  Finished TC_002_LoginTest    **********
+19:46:12.784 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+19:46:14.169 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+19:46:16.666 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+19:46:22.888 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 

@@ -6,19 +6,21 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="master"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC_002_LoginTest">
+      <class name="testCases.TC_005_AddToCartPageTest">
         <methods>
           <include name="tearDown"/>
-          <include name="test_Login"/>
+          <include name="setup"/>
+          <include name="test_addToCart"/>
+        </methods>
+      </class> <!-- testCases.TC_005_AddToCartPageTest -->
+      <class name="testCases.TC_004_SearchProductTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test_pruductSearch"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_002_LoginTest -->
+      </class> <!-- testCases.TC_004_SearchProductTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
